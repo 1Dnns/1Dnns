@@ -15,12 +15,12 @@ Puedes conocer más sobre mí y mis proyectos en mi sitio web:
 
 ## 🧠 Áreas de interés
 
-- Ciencia de Datos aplicada
-- Machine Learning & Deep Learning
-- Web Scraping y automatización
-- Visualización de datos con Plotly, Dash, Power BI
-- Desarrollo de dashboards y aplicaciones con Django
-- Desarrollo web **fullstack** con enfoque en despliegue y API
+- Ciencia de Datos aplicada  
+- Machine Learning & Deep Learning  
+- Web Scraping y automatización  
+- Visualización de datos con Plotly, Dash, Power BI  
+- Desarrollo de dashboards y aplicaciones con Django  
+- Desarrollo web **fullstack** con enfoque en despliegue y API  
 
 ---
 
@@ -39,10 +39,19 @@ Código fuente de mi sitio web personal desplegado con Django y alojado en Rende
 
 ## 🛠️ Tecnologías que uso
 
+### 🧑‍💻 Lenguajes y Librerías
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly)
+
+### 🌐 Frameworks, herramientas y plataformas
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
