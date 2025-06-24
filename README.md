@@ -25,7 +25,7 @@ Puedes conocer más sobre mí y mis proyectos en mi sitio web:
 
 ## 📂 Repositorios destacados
 
-🔍 [**Scraping de datos parlamentarios**](https://github.com/denisbravo/NombreDelRepoScraping](https://github.com/1Dnns/Diputados-Data-Chile)  
+🔍 [**Scraping de datos parlamentarios**][https://github.com/1Dnns/Diputados-Data-Chile](https://github.com/1Dnns/Diputados-Data-Chile)  
 Proyecto de automatización para obtener datos de diputados chilenos usando Selenium y BeautifulSoup.
 
 🤖 [**Modelos de regresión con ML**](https://github.com/denisbravo/NombreDelRepoML](https://github.com/1Dnns/Regression-Projects)  
